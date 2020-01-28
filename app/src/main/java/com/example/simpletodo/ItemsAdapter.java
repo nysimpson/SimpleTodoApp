@@ -51,6 +51,8 @@ public class ItemsAdapter extends RecyclerView.Adapter<ItemsAdapter.ViewHolder> 
             super(itemView);
             tvItem = itemView.findViewById(android.R.id.text1);
             //this.itemView = itemView;
+
+            //This is a test change
         }
 
         // Udate the view inside of the view holder with this data
